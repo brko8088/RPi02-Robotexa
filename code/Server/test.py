@@ -1,6 +1,6 @@
 import time
 from Led import *
-led=Led()
+#led=Led()
 def test_Led():
     try:
         #Red wipe
